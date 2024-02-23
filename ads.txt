@@ -1,0 +1,22 @@
+{
+    "latestVersion":"0.0.1",
+    "adType":"google",
+    "appUrl":"",
+    "showAd":false,
+    "privacyUrl":"https://privacypolicyallin.blogspot.com/2024/02/privacy-policy.html",
+    "googleNativeId":"ca-app-pub-3940256099942544/2247696110",
+    "googleBannerId":"ca-app-pub-3940256099942544/6300978111",
+    "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
+    "googleInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "isUpdateApp":false,
+    "appOpenVisible":false,
+    "googleNativeVisible":false,
+    "googleBannerVisible":false,
+    "googleInterVisible":false,
+    "isBackAdd":false,
+    "toBeClicked":1,
+    "fbBannerId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbNativeId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbInterId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interTimeIntervalInSec":10
+}
