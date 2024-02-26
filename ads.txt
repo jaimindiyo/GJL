@@ -14,6 +14,7 @@
     "googleBannerVisible":true,
     "googleInterVisible":true,
     "isBackAdd":true,
+    "isLoan":true,
     "toBeClicked":1,
     "fbBannerId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "fbNativeId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
