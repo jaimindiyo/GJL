@@ -12,7 +12,7 @@
     "appOpenVisible":true,
     "googleNativeVisible":true,
     "googleBannerVisible":true,
-    "googleInterVisible":true,
+    "googleInterVisible":false,
     "isBackAdd":true,
     "isLoan":true,
     "toBeClicked":1,
